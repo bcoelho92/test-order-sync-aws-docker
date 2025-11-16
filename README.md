@@ -1,1 +1,0 @@
-# test-order-sync-aws-docker
